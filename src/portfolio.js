@@ -111,7 +111,7 @@ const educationInfo = {
     },
     {
       schoolName: "DAV Public School, Dehradun",
-      logo: require("./assets/images/davSchol.png"),
+      logo: require("./assets/images/tia.jpeg"),
       subHeader: "CBSE Board",
       duration: "March 2023",
       desc: "Subjects : Physics, Chemistry & Mathematics",
