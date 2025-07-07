@@ -20,27 +20,27 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Rahul Kandwal",
-  title: "Hi, I am\nRahul Kandwal",
+  username: "Ankur Pandey",
+  title: "Hi, I am\nAnkur Pandey",
   subTitle: emoji(
     "A second-year engineering student with good academics and a deep passion for technology, seeking an\n" +
       " internship"
   ),
   resumeLink:
-    "./RahulKandwal_Resume.pdf", // Set to empty to hide the button
+    "./Ankur_Pandey_Resume_.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/rahulkandwal19",
-  linkedin: "https://www.linkedin.com/in/rahulkandwal19/",
-  gmail: "rahulkandwal19@outlook.com",
-  twitter:"https://x.com/rahulkandwal19",
-  kaggle:"https://www.kaggle.com/rahulkandwal19",
+  github: "https://github.com/ankurpandey5",
+  linkedin: "https://www.linkedin.com/in/ankur-pandey-087a25283/",
+  gmail: "ankurpandey0430@gmail.com",
+  twitter:"",
+  kaggle:"",
   medium:"",
-  discord:"https://discord.com/users/rahulkandwal19",
+  discord:"",
   reserchGate:"",
   display: true
 };
@@ -106,16 +106,15 @@ const educationInfo = {
       desc: "Relevant Courses : Data Structure, Algorithms, OOP, Fundamentals of IoT & Introduction to ML",
       descBullets: [
         "Presented reserch project in AIU Anveshan 2025, an International Student Research Convention",
-        "Won Crack-C 2024 an programing competition for 1st year students organised by GEU-ACM",
-        "CGPA : 9.10"
+        "CGPA : 8.66"
       ]
     },
     {
       schoolName: "DAV Public School, Dehradun",
-      logo: require("./assets/images/davSchool.png"),
+      logo: require("./assets/images/davSchol.png"),
       subHeader: "CBSE Board",
       duration: "March 2023",
-      desc: "Subjects : English, Computer Science, Physics, Chemistry & Mathematics",
+      desc: "Subjects : Physics, Chemistry & Mathematics",
       descBullets: [
         "Developed a GUI-based Periodic Table application using Python (Tkinter) and MySQL, showcasing fundamental CRUD operations for class 12th project work."
       ]
@@ -151,7 +150,7 @@ const achievementSection = {
       url: "https://www.linkedin.com/posts/rahulkandwal19_geoprocessing-using-python-by-iirs-dehradun-activity-7095608582695493633-g6TH"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const blogSection = {
@@ -309,9 +308,9 @@ const projectList = {
       ],
     },
     {
-      title: "Find My Fund",
-      subtitle: "Provides recommendation of best available Mutual Funds as per user return expetations using K-Nearest Negibours",
-      url: "https://github.com/rahulkandwal19/Find-My-Fund",
+      title: "Company Bankruptcy Prediction",
+      subtitle: " Machine learning based Financial Risk Classifier",
+      url: "https://github.com/ankurpandey5/Bankruptcy_Prediction",
       technology: [
         {
           skillName: "HTML",
@@ -396,25 +395,7 @@ const projectList = {
         },
       ],
     },
-    {
-      title: "Agriculture Data Visualization",
-      subtitle:"Extraction, cleaning and visualization of agriculture data specifically to uttarakhand state on kaggle notebook",
-      url: "https://www.kaggle.com/code/rahulkandwal19/agriculture-production-analysis-of-uttrakhand",
-      technology: [
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "fa-brands fa-python"
-        },
-        {
-          skillName: "Kaggle",
-          fontAwesomeClassname: "fa-brands fa-kaggle"
-        },
-        {
-          skillName: "Kaggle",
-          fontAwesomeClassname: "fa-solid fa-chart-column"
-        },
-      ],
-    },
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
