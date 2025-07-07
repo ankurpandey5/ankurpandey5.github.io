@@ -116,7 +116,7 @@ const educationInfo = {
       duration: "March 2023",
       desc: "Subjects : Physics, Chemistry & Mathematics",
       descBullets: [
-        "Developed a GUI-based Periodic Table application using Python (Tkinter) and MySQL, showcasing fundamental CRUD operations for class 12th project work."
+        "Worked on Python(basics)"
       ]
     }
   ]
