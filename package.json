@@ -1,7 +1,7 @@
 {
-  "name": "rahulkandwal-portfolio",
+  "name": "ankurpandey-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rahulkandwal19.github.io",
+  "homepage": "https://ankurpandey5.github.io",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
