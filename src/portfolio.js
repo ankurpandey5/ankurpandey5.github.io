@@ -106,11 +106,11 @@ const educationInfo = {
       desc: "Relevant Courses : Data Structure, Algorithms, OOP, Fundamentals of IoT & Introduction to ML",
       descBullets: [
         "Presented reserch project in AIU Anveshan 2025, an International Student Research Convention",
-        "CGPA : 8.66"
+        "CGPA : 8.72"
       ]
     },
     {
-      schoolName: "Indian Academy, Dehradun",
+      schoolName: "The Indian Academy, Dehradun",
       logo: require("./assets/images/tia.jpeg"),
       subHeader: "CBSE Board",
       duration: "March 2023",
@@ -121,7 +121,7 @@ const educationInfo = {
 };
 
 const achievementSection = {
-  title: "Certifications",
+  title: "Achievements",
   subtitle:
     "",
 
