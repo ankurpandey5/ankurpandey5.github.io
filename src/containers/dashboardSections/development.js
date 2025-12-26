@@ -37,15 +37,15 @@ export default function Development() {
             <div className="github-grid-container">
               <div className="github-grid-item">
                 <img
-                    src={"http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkandwal19&theme=" + theme}></img>
+                    src={"http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankurpandey5&theme=" + theme}></img>
               </div>
               <div className="github-grid-item">
                 <img
-                    src={"http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkandwal19&theme=" + theme}></img>
+                    src={"http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankurpandey5&theme=" + theme}></img>
               </div>
               <div className="github-grid-item merged-row">
                 <img
-                    src={"http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkandwal19&theme=" + theme}></img>
+                    src={"http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankurpandey5&theme=" + theme}></img>
               </div>
             </div>
           </div>

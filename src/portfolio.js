@@ -23,11 +23,11 @@ const greeting = {
   username: "Ankur Pandey",
   title: "Hi, I am\nAnkur Pandey",
   subTitle: emoji(
-    "A second-year engineering student with good academics and a deep passion for technology, seeking an\n" +
+    "A third-year engineering student with good academics and a deep passion for technology, seeking an\n" +
       " internship"
   ),
   resumeLink:
-    "./Ankur_Pandey_Resume_.pdf", // Set to empty to hide the button
+    "Ankur_Pandey_Resume_.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -110,14 +110,12 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "DAV Public School, Dehradun",
+      schoolName: "Indian Academy, Dehradun",
       logo: require("./assets/images/tia.jpeg"),
       subHeader: "CBSE Board",
       duration: "March 2023",
       desc: "Subjects : Physics, Chemistry & Mathematics",
-      descBullets: [
-        "Worked on Python(basics)"
-      ]
+      descBullets: []
     }
   ]
 };
@@ -141,13 +139,6 @@ const achievementSection = {
       image: require("./assets/images/CiscoNetworkAcademy.png"),
       imageAlt: "IBM Logo",
       url: "https://www.credly.com/badges/889f9839-1565-47ac-9d02-04a6de416890"
-    },
-    {
-      title: "Geo-Processing with Python",
-      subtitle: "-by IIRS-ISRO",
-      image: require("./assets/images/iirs.png"),
-      imageAlt: "IBM Logo",
-      url: "https://www.linkedin.com/posts/rahulkandwal19_geoprocessing-using-python-by-iirs-dehradun-activity-7095608582695493633-g6TH"
     }
   ],
   display: false // Set false to hide this section, defaults to true
